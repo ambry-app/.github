@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="logo_light.png#gh-light-mode-only">
-  <img src="logo_dark.png#gh-dark-mode-only">
+  <img src="profile/logo_light.png#gh-light-mode-only">
+  <img src="profile/logo_dark.png#gh-dark-mode-only">
 </p>
 
 ## Intro
