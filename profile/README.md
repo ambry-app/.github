@@ -5,3 +5,6 @@
 
 Ambry is your personal audiobook shelf. Upload your books to a self-hosted
 server and stream to any device over the web.
+
+Ambry plays audiobooks you own. It does not acquire audiobooks or remove DRM,
+and it never will. Ambry does not support piracy.
